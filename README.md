@@ -8,4 +8,4 @@ local
 
 txt in new branch branch1
 
-321 conflict local
+123 web
